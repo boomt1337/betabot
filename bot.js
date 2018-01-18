@@ -9,4 +9,4 @@ bot.on('message', (message) => {
 
 });
 
-bot.login('NDAzNDA2NDg0MTE1MDMwMDE4.DUHJtw.UQMlPJDg2kUkTMwvEbv_Nx0ZUyY')
+bot.login('censored')
