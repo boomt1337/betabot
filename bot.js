@@ -35,8 +35,11 @@ if (command === 'ban') {
   });
   msg.channel.send `${msg.mentions.users.first()} got booted by ${msg.author}`
   }
-  if (command === 'rebelgay') {
-    msg.channel.send('Rebel is gay :rainbow:')
+  if (command === 'help') {
+    msg.channel.send('Commands are currently: ban,kick,reportabug,help,ping. We encourage you to use reportabug to report bugs/new ideas.')
+  }
+  if (command === 'reportabug') {
+      msg.channel.send('to report bugs, please go on this GitHub issue: https://github.com/boomt1337/betabot/issues/1. To see what is being fixed, go to the Projects tab.')
   }
 });
 
