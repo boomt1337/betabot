@@ -1,3 +1,6 @@
-Hi, you've stumbled upon the code of boomt1337#3590's bot page!
+# BetaBot
+an EXTREMELY basic bot that runs off of glitch.com
+planning to add features soon (once I learn some more discord.js/node.js)
 
-There isn't really anything to do here...
+oh yea go ahead and fork this if you want but don't claim it as yours
+(c) 2018 boomt studios.
